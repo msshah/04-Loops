@@ -38,10 +38,16 @@ class Loops
 	
 		System.out.println();
 	
+		/**
+		  *
+		  * NESTED FOR LOOP
+		  * 
+		  */
 		// inner-for loop
 		for(i = 1; i <= 21; i++)
 		{
-			for(j = 1; j < i+1; j++) {
+			for(j = 1; j < i+1; j++)
+			{
 				System.out.print("*");
 			}
 			System.out.println("");
@@ -50,6 +56,11 @@ class Loops
 		System.out.println();
 	
 		// while - Must initialize i
+		/**
+		  *
+		  * WHILE LOOP
+		  * 
+		  */
 		i = 0;
 		while(i < 100)
 		{
@@ -59,6 +70,11 @@ class Loops
 
 		System.out.println();
 	
+		/**
+		  *
+		  * DO-WHILE LOOP
+		  * 
+		  */
 		// initalize i to 0
 		i = 0;
 		// do while
