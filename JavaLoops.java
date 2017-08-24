@@ -1,6 +1,8 @@
 /**
-	* Written by Mian Safyan Shah
-	* Contact : safyanshah@live.com
+	* Copyright (c) 2017 Mian Safyan Shah
+	*
+	* WRITTEN BY		: MIAN SAFYAN SHAH
+	* CONTACT		: safyanshah@live.com
 	*
 	* This program demonstrates the use of Loops in Java and creating Class Object
 	*
